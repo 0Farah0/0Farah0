@@ -17,7 +17,7 @@ From TensorFlow to PyTorch and beyond, the tools that can help me solve complex 
 2. Open-source learning resources that make tech education accessible to everyone. Knowledge is power, folks!
 3. Anything that involves using my mad Tableau skills to make data sing (yes, data can sing, trust me).
 
-📫 How to reach me: You already found me here! But if you're feeling social, hit me on LinkedIn (link in the contact section, duh).
+📫 How to reach me: You already found me here! But if you're feeling social, hit me on LinkedIn (link in the contact section).
 
 ⚡ Fun fact: I once used SPSS to predict the best flavor of ice cream for a summer party. Turns out, it's ALWAYS mint chocolate chip. Don't fight science.
 
